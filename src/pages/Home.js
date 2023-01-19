@@ -30,12 +30,12 @@ export default function Home() {
         centered
       />
       <Header as="h1" color="teal">
-        eCommerce Application
+        E-Commerce Application
       </Header>
-      <Header as="h3">
+      {/* <Header as="h3">
         A simple eCommerce Application made with Spring Boot and React for
         AWS CaseStudy
-      </Header>
+      </Header> */}
       {greeting}
     </Container>
   );
